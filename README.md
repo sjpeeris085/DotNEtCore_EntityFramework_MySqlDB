@@ -13,4 +13,4 @@ DotNEtCore_EntityFramework_MySqlDB With All Steps
            - Microsoft.EntityFrameworkCore.Design  5.0.11
            - Pomelo.EntityFrameworkCore.MySql      5.0.2
            
-          Project explorer ->  Right click on the project -> Nuget package -> brows
+         Install Packages :- Project explorer ->  Right click on the project -> Nuget package -> brows

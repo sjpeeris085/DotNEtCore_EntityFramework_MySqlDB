@@ -3,6 +3,7 @@ DotNEtCore_EntityFramework_MySqlDB With All Steps
 
          Create New .Net Core Winform Project - NOT WinForm(.Net Framwork)
          Go to View -> Terminal
+         Goto project folder by terminal:- cd <project_name>
          To Scaffolding a MySQL run follwing command with correct values
          dotnet ef dbcontext scaffold "Server=myserver.com;Database=myDatabase;User=userame;Password=password;" "Pomelo.EntityFrameworkCore.MySql"
 

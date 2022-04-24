@@ -13,10 +13,10 @@ namespace DotNEtCore_EntityFramework_MySqlDB
     public partial class Form1 : Form
     {
         // Go to View -> Terminal
-        // To Scaffolding a MySQL run follwing command with correct values
-        // dotnet ef dbcontext scaffold "Server=myserver.com;Database=myDatabase;User=userame;Password=password;" "Pomelo.EntityFrameworkCore.MySql"
-
-        //Ref : https://www.youtube.com/watch?v=iKSj3AyGq8w
+       // Goto project folder by terminal:- cd <project_name>
+       // To Scaffolding a MySQL run follwing command with correct values
+       // dotnet ef dbcontext scaffold "Server=localhost;Database=myDatabase;User=userame;Password=password;" "Pomelo.EntityFrameworkCore.MySql"
+       // Ref : https://www.youtube.com/watch?v=iKSj3AyGq8w
 
         // .Net Version : 5.0  (.Net Core)
         // Packages Using : 
